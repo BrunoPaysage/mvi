@@ -1,23 +1,21 @@
-# MVI 
+# MVI Transactions
 ## Faire le local durable
 
 **Essentiel**: _Faire des gains économiques, des gains environnementaux et des gains sociaux._
 
-### Les ingrédients:
-* Des compétences et des besoins des individus
-* Des besoins collectifs et un partage de leurs revenus
-* Un compte individuel MVI garantissant l'essentiel
+Pour utiliser son compte individuel MVI, il faut des moyens pratiques pour faire les transactions avec le compte. Ces transactions sont découlent des actions des utilisateurs. 
 
- Merci à tous pour votre participation
+### Les ingrédients:
+* Des transactions prévues avec compensation automatique
+* Des transactions interdites
+* Des transactions automatisées avec les actions
+* Des transactions automatisées avec opérations sur les 3 comptesDD
+* Des moyens variés
 
 ### Le minimum acceptable:
-* Prévoir des gains dans les 3 comptes pour tous les projets
-* Garantir le minimum
-	* Zéro pauvreté économique
-	* Zéro pauvreté environnementale
-	* Zéro pauvreté sociale
-	* Droits individuels et droit commun
-* Compenser totalement les pertes
+* L'autorisation de transaction par le compte individuel en fonction de ses limites
+* Aucun découvert
+* Aucune spéculation
 
 ### Le maximum autorisé
 * Tout impact doit pouvoir être compensé par la collectivité locale
