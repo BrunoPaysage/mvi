@@ -11,7 +11,7 @@ Cette comptabilité indispensable au développement durable doit être complét�
 ### Les ingrédients:
 * Un budget 3 comptes pour chaque projet
 * Une base de connaissance des valeurs
-* Des projets et des transactions similaires similaires disponibles
+* Des projets et des transactions similaires disponibles
 * Une aide par la communauté
 
 ### Le minimum acceptable:
