@@ -3,6 +3,8 @@
 
 **Essentiel**: _Faire des gains économiques, des gains environnementaux et des gains sociaux._
 
+NOTE: Ce projet est est un projet global avec une monnaie locale complémentaire permettant la compensation. Le projet [↺onsignél](https://github.com/BrunoPaysage/consignel) se concentre sur la mise en place du moyen compensation. 
+
 ### Les ingrédients:
 * Des compétences et des besoins des individus
 * Des besoins collectifs et un partage de leurs revenus
